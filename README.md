@@ -6,7 +6,7 @@ This repository contains my latest resume along with relevant details about my s
 👩‍💻 About Me
 
 Hi, I'm Anamika Rai
-🎓 B.Tech CSE (Core) Student, currently in my third year.
+🎓 B.Tech CSE (Core) Student, currently in my last year.
 💡 Passionate about technology, problem-solving, and building impactful projects.
 
 📬 Contact
